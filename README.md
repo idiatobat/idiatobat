@@ -1,6 +1,6 @@
 <h1>Hi, I'm Idiat! passionate Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 My Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Cybersecurity Project:</h2>
 
 - <b>Azure/Cloudsecurity projects</b>
   - Creating a live SOC/Honeynet in Azure(https://github.com/idiatobat/Cloud-SOC)
