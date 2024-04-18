@@ -1,6 +1,6 @@
-<h1>Hi, I'm Idia! passionate Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Idia! I am a passionate Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 My Cybersecurity Project:</h2>
+<h2>👨‍💻 Here are is a sample of my Cybersecurity Project:</h2>
 
 - <b>Azure/Cloudsecurity projects</b>
   - Creating a live SOC/Honeynet in Azure(https://github.com/idiatobat/Cloud-SOC)
