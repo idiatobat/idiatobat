@@ -1,4 +1,4 @@
-<h1>Hi, I'm Idiat! passionate Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Idia! passionate Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 My Cybersecurity Project:</h2>
 
